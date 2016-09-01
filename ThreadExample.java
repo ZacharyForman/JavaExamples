@@ -2,6 +2,8 @@ package java.com.foo.bar;
 
 /**
  * Class to demonstrate basic usage of wait and notify.
+ * 
+ * Do not use in production.
  */
 class ThreadExample {
   private final Object lock = new Object();
