@@ -1,5 +1,7 @@
 /**
  * Class that provides miscellaneous utilities.
+ *
+ * Do not use in production.
  */
 class Utils {
   
